@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="popup_close">false</item>
+    <item type="id" name="popup_download">false</item>
+    <item type="id" name="seperator">false</item>
+    <item type="id" name="clickbutton">false</item>
+    <item type="id" name="listview">false</item>
+    <item type="id" name="changestrokeframebg">false</item>
+</resources>
